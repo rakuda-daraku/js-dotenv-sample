@@ -4,8 +4,6 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "version": "webpack -v",
-    "start": "webpack app/test.js dist/bundle.js",
     "build": "webpack"
   },
   "keywords": [],
